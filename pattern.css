@@ -1,0 +1,13 @@
+#header {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/A1PMyHeY%2BjL._AC_SL1500_.jpg);
+    background-position: center;
+    height: 16rem;
+}
+
+.card-text {
+    font-size: 0.75rem;
+}
+
+.navbar-brand {
+    font-size: 1.1rem;
+}
